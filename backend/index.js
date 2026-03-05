@@ -24,6 +24,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
   'http://localhost:3000',
+  'https://sport-pro-lovat.vercel.app',
   process.env.FRONTEND_URL,
   process.env.CORS_ORIGIN,
 ].filter(Boolean);
