@@ -40,11 +40,11 @@ In the Render dashboard, go to **Environment** tab and add these variables:
 
 ```
 NODE_ENV=production
-MONGODB_URI=mongodb+srv://rohitkhandelwal2059:rohit1027@rohit.mtrcijc.mongodb.net/sports-managment?appName=rohit
-JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
-JWT_EXPIRE=7d
-EMAIL_USER=roht.khandelwal.2059@gmail.com
-EMAIL_PASSWORD=iteyraблnbdlupcs
+MONGODB_URI=
+JWT_SECRET=
+JWT_EXPIRE=
+EMAIL_USER=
+EMAIL_PASSWORD=
 FRONTEND_URL=https://your-app-name.vercel.app
 CORS_ORIGIN=https://your-app-name.vercel.app
 ```
